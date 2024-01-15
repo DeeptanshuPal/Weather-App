@@ -21,4 +21,4 @@ We gather all the data from OpenWeatherMap API and then display it to the user v
 ![image](https://user-images.githubusercontent.com/98761592/230740029-7e6cd214-eb16-478e-b1f1-d40bd1931ab7.png)
 
 ## Demo
-https://www.youtube.com/watch?v=HysEtFDi4sU
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HysEtFDi4sU?si=-mI561bZ9srvt__l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
